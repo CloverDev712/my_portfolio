@@ -47,7 +47,7 @@ const About = () => {
             <div className="aspect-video bg-accent/10 rounded-lg overflow-hidden relative">
               <div className="absolute inset-0 flex items-center justify-center">
                 <img
-                  src="/images/about.jpg"
+                  src="/images/about.png"
                   alt="About"
                   className="w-full h-full object-cover rounded-lg shadow-lg"
                 />
