@@ -1,51 +1,79 @@
-# My Portfolio
+# Diego Antunez Portfolio
 
-A modern, responsive portfolio website built with React, TypeScript, and Tailwind CSS.
+A modern, responsive portfolio website showcasing my experience as a Full Stack Developer and Digital Strategist. Built with React, TypeScript, and Tailwind CSS.
+
+## About Me
+
+Bilingual digital professional (English/Spanish) with 8+ years of experience in web development, UI/UX design, and digital marketing. Based in Miami, FL, I bring a unique blend of technical and business expertise, holding an MA and MBA, and a proven track record in fintech, project management, and digital marketing.
 
 ## Technologies Used
 
-- Vite - Fast, modern build tool
-- TypeScript - Type-safe JavaScript
-- React - UI library
-- shadcn-ui - Beautiful UI components
-- Tailwind CSS - Utility-first CSS framework
+- **Frontend**
+  - React
+  - TypeScript
+  - Tailwind CSS
+  - shadcn-ui
+  - Framer Motion
 
-## Getting Started
+- **Development Tools**
+  - Vite
+  - Git
+  - GitHub/BitBucket
+  - AWS
 
-### Prerequisites
+## Key Features
 
-- Node.js & npm (install with [nvm](https://github.com/nvm-sh/nvm#installing-and-updating))
-
-### Installation
-
-```sh
-# Clone the repository
-git clone <YOUR_GIT_URL>
-
-# Navigate to the project directory
-cd my_portfolio
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
-```
-
-## Development
-
-The development server will start at `http://localhost:5173` with hot-reloading enabled.
+- Responsive design with modern UI/UX
+- Animated components using Framer Motion
+- Dark/Light theme support
+- Interactive project showcase
+- Skills visualization
+- Work history timeline
+- Education and languages sections
+- Contact form
 
 ## Project Structure
 
-- `/src` - Source code
-  - `/components` - React components
-  - `/styles` - Global styles and Tailwind configuration
-  - `/assets` - Static assets like images and fonts
+```
+src/
+├── components/         # React components
+│   ├── About.tsx      # About section
+│   ├── Contact.tsx    # Contact form
+│   ├── Education.tsx  # Education history
+│   ├── Footer.tsx     # Site footer
+│   ├── Hero.tsx       # Landing section
+│   ├── Languages.tsx  # Language skills
+│   ├── Navbar.tsx     # Navigation bar
+│   ├── Projects.tsx   # Project showcase
+│   ├── Skills.tsx     # Skills section
+│   └── WorkHistory.tsx# Work experience
+├── styles/            # Global styles
+└── main.tsx          # Application entry
+```
 
 ## Deployment
 
-This project can be deployed to any static hosting service like Vercel, Netlify, or GitHub Pages.
+This project is deployed on Vercel at [https://diego-antunez-portfolio.vercel.app/](https://diego-antunez-portfolio.vercel.app/)
+
+## Skills & Expertise
+
+- **Development**
+  - Full Stack Development (Laravel, React, TypeScript)
+  - Database Management (MySQL, PostgreSQL)
+  - Cloud Services (AWS)
+  - Version Control (Git, GitHub, BitBucket)
+
+- **Design**
+  - UI/UX Design
+  - Responsive Design
+  - Figma & Adobe XD
+  - Wireframing
+
+- **Marketing**
+  - Digital Marketing
+  - Social Media Management
+  - SEO
+  - Analytics
 
 ## License
 
