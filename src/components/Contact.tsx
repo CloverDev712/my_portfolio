@@ -32,7 +32,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <p className="text-sm text-muted-foreground">Phone</p>
-                  <p className="font-medium text-lg text-foreground">+1 (555) 123-4567</p>
+                  <p className="font-medium text-lg text-foreground">+1 (754) 201-9266</p>
                 </div>
               </div>
               <div className="flex items-center gap-4">
@@ -41,7 +41,9 @@ const Contact = () => {
                 </div>
                 <div>
                   <p className="text-sm text-muted-foreground">Location</p>
-                  <p className="font-medium text-lg text-foreground">New York, NY</p>
+                  <p className="font-medium text-lg text-foreground">913 Northeast 7th Street
+Hallandale Beach , FL 33009
+United States</p>
                 </div>
               </div>
             </div>
